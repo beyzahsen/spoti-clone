@@ -5,4 +5,4 @@ Rapid API, Schazam API: https://rapidapi.com/apidojo/api/shazam
 With the starter code from JavaScriptMastery
 https://drive.google.com/file/d/1iTlXIZ4T3BBKjgLMsDpQn-Eux1B3ZyXO/view
 
-latest version: https://baa-spotifyclone.netlify.app/
+Latest version: https://baa-spotifyclone.netlify.app/
